@@ -1,0 +1,10 @@
+root
+letmein
+angeles
+bob
+1337
+charley
+pablo
+smithy
+usuario
+administrador
